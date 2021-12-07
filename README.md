@@ -1,2 +1,2 @@
 # qtlab
-我我我
+a light-weight Scintilla-based text editor for Windows
